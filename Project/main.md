@@ -23,6 +23,11 @@ My client is concern about these practices (**See the evidence of Consulation in
 
 # Criterion B: Design
 ### System Diagram
+![Untitled](https://github.com/user-attachments/assets/39d2fff9-67d5-40ec-aa66-a78a5194641e)
+**Fig 1** System Diagram showing the minimal requirement for the hardware and software used for
+proposed solution. The lock indicates encryption.
+
+
 
 ### Flow diagrams for algorithms
 ![flow](https://github.com/user-attachments/assets/93f4a0fb-66b8-4993-9b3d-b0b47deaeb82)
