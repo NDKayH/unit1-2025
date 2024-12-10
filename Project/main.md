@@ -11,15 +11,16 @@ My client is concern about these practices (**See the evidence of Consulation in
 ## Proposed Solution
 
 ## Success Criteria
-1. The calculator should accept user input to perform basic operations (addition, subtraction, multiplication, division).
-1. The calculator can handle typical errors (e.g., division by zero) and give appropriate feedback.
-1. If the user enters the secret code ("open123"), the program will change modes and act as a password manager.
-1. In password manager mode, the user should be able to perform CRUD operations (Create, Replace, Update, Delete):
-   * Add a password (for example, for a website).
-   * View the stored passwords (only if they re-enter the secret code).
-1. Save passwords permanently and securely
-1. Use the terminal to interact with the user.
-
+1. The solution will be able to display clear, accurate graphs depicting **temperature** and **humidity** trends in residential homes over a duration of **48 hours**. 
+2. The indoor environment variables will be successfully measured with a **DHT11 sensor** connected to a **Raspberry Pi 4 Model B**. 
+3. If the user enters the secret code ("open123"), the program will change modes and act as a password manager.
+4. Data read by the DHT11 sensor will be:
+   * **Stored Locally** in a CSV file for easy access and backup.
+   * **Uploaded to a Local Server** in real time to ensure data redundancy and avoid data loss during power outages.
+5. A detailed **poster** will be prepared to summarize the project findings. This shall include:
+   * Graphical representation of temperature and humidity trends
+   * Key observations from mathematical modeling and comparative analysis
+   * Practical recommendations on enhancing energy efficiency  
 
 # Criterion B: Design
 ### System Diagram
